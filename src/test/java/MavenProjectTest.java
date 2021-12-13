@@ -1,6 +1,6 @@
 import org.testng.annotations.Test;
 
-public class MavenProject2 {
+public class MavenProjectTest {
 
 	@Test
 	public void test() 
